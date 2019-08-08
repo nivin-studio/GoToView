@@ -1,0 +1,5 @@
+[
+	{ "caption": "-" },
+	{"caption": "GoToView", "command": "go_to_view"},
+	{ "caption": "-" },
+]
